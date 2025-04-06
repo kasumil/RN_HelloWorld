@@ -2,7 +2,7 @@
 
 🇰🇷 [한국어 README 보기](./README.KR.md)
 
-![main screen](../hello_world/assets/banner_image.png)
+![main screen](./assets/banner_image.png)
 
 A minimal React Native application that demonstrates dynamic styling using props and `StyleSheet.create()` based on the app’s internal state.
 
@@ -18,9 +18,9 @@ A minimal React Native application that demonstrates dynamic styling using props
 
 ## 📱 Preview
 
-| Default (White)                                  | Toggled (Black)                                  |
-| ------------------------------------------------ | ------------------------------------------------ |
-| ![white screen](../hello_world/assets/white.png) | ![black screen](../hello_world/assets/black.png) |
+| Default (White)                     | Toggled (Black)                     |
+| ----------------------------------- | ----------------------------------- |
+| ![white screen](./assets/white.png) | ![black screen](./assets/black.png) |
 
 ## 🚀 Getting Started
 
