@@ -26,7 +26,7 @@
 
 ```bash
 git clone https://github.com/kasumil/RN_HelloWorld.git
-cd react-native-color-toggle-app
+cd RN_HelloWorld
 ```
 
 ### 2. 의존성 클론

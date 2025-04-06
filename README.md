@@ -28,7 +28,7 @@ A minimal React Native application that demonstrates dynamic styling using props
 
 ```bash
 git clone https://github.com/kasumil/RN_HelloWorld.git
-cd react-native-color-toggle-app
+cd RN_HelloWorld
 ```
 
 ### 2. Install Dependencies

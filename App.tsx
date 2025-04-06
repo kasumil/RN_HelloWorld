@@ -40,7 +40,12 @@ function App(): React.JSX.Element {
               value={colorState}
               readOnly
             />
-            <Pressable style={style.button} onPress={handlePress}>
+            <Pressable
+              style={({pressed}) => [
+                style.button,
+                pressed ? {opacity: 0.5} : null,
+              ]}
+              onPress={handlePress}>
               <Text style={style.buttonText}>Press Color Change</Text>
             </Pressable>
           </View>
