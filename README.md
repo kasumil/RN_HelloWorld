@@ -2,7 +2,7 @@
 
 🇰🇷 [한국어 README 보기](./README.KR.md)
 
-![main screen](./assets/banner_image.png)
+<img src="./assets/banner_image.png" alt="main screen" width="100%" />
 
 A minimal React Native application that demonstrates dynamic styling using props and `StyleSheet.create()` based on the app’s internal state.
 
@@ -27,7 +27,7 @@ A minimal React Native application that demonstrates dynamic styling using props
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/react-native-color-toggle-app.git
+git clone https://github.com/kasumil/RN_HelloWorld.git
 cd react-native-color-toggle-app
 ```
 
