@@ -20,6 +20,12 @@
 | ----------------------------------- | ----------------------------------- |
 | ![white screen](./assets/white.png) | ![black screen](./assets/black.png) |
 
+## 🎥 동영상 데모
+
+아래 동영상을 클릭하여 앱의 작동 영상을 확인해보세요:
+
+[![동영상 데모](./assets/white.png)](https://youtube.com/shorts/YZRi2gQg318?feature=share)
+
 ## 🚀 시작하기
 
 ### 1. 저장소 클론

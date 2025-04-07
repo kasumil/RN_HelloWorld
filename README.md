@@ -22,6 +22,12 @@ A minimal React Native application that demonstrates dynamic styling using props
 | ----------------------------------- | ----------------------------------- |
 | ![white screen](./assets/white.png) | ![black screen](./assets/black.png) |
 
+## 🎥 Video Demo
+
+Click the video below to watch a demonstration of the app:
+
+[![Demo Video](./assets/white.png)](https://youtube.com/shorts/YZRi2gQg318?feature=share)
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
